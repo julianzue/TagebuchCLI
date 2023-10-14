@@ -8,7 +8,7 @@ Mit dem Python Programm kann man ein Tagebuch fürhren.
 Die Einträge werden nach Jahr, Monat und Tag sortiert.
 
 ## Das benötigt man
-- colorama (pp install colorama)
+- colorama (pip install colorama)
 
 ## Platform
 - Windows
